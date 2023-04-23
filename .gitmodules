@@ -1,0 +1,16 @@
+[submodule "Schood-API"]
+	path = Schood-API
+	url = https://github.com/SchoodEIP/Schood-API
+	branch = main
+[submodule "Schood-WEB"]
+	path = Schood-WEB
+	url = https://github.com/SchoodEIP/Schood-WEB
+	branch = main
+[submodule "Schood-IOS"]
+	path = Schood-IOS
+	url = https://github.com/SchoodEIP/Schood-IOS
+	branch = main
+[submodule "Schood-Android"]
+	path = Schood-Android
+	url = https://github.com/SchoodEIP/Schood-Android
+	branch = main
