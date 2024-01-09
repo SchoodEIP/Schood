@@ -10,3 +10,7 @@
 	path = Schood-Mobile
 	url = https://github.com/SchoodEIP/Schood-Mobile
 	branch = main
+[submodule "Schood-Builder"]
+	path = Schood-Builder
+	url = https://github.com/SchoodEIP/Schood-Builder.git
+	branch = main
