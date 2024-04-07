@@ -14,3 +14,15 @@
 	path = Schood-Builder
 	url = https://github.com/SchoodEIP/Schood-Builder.git
 	branch = main
+[submodule "Schood-Showcase-Back"]
+	path = Schood-Showcase-Back
+	url = https://github.com/SchoodEIP/Schood-Showcase-Back.git
+	branch = main
+[submodule "Schood-Showcase-Web"]
+	path = Schood-Showcase-Web
+	url = https://github.com/SchoodEIP/Schood-Showcase-Web.git
+	branch = main
+[submodule "Schood-Desktop"]
+	path = Schood-Desktop
+	url = https://github.com/SchoodEIP/Schood-Desktop.git
+	branch = main
